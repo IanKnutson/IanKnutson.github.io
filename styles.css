@@ -1,0 +1,75 @@
+body {
+    background-color: steelblue;
+}
+
+h1 {
+    color: whitesmoke;
+    width: 100%;
+    height: auto;
+    font-family: sans-serif;
+    font-weight: bolder;
+    text-align: center;
+}
+
+h2 {
+    color: whitesmoke;
+    width: 100%;
+    height: auto;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: left;
+}
+
+h3 {
+    color: whitesmoke;
+    width: 100%;
+    height: auto;
+    font-family: sans-serif;
+    text-align: left;
+}
+
+h4 {
+    color: whitesmoke;
+    width: 100%;
+    height: auto;
+    font-family: sans-serif;
+    text-align: left;
+}
+
+h5 {
+    color: whitesmoke;
+    width: 100%;
+    height: auto;
+    font-family: sans-serif;
+}
+
+img {
+    width: 50%;
+    height: auto;
+    align-content: center;
+}
+
+p {
+    color: whitesmoke;
+    width: 100%;
+    height: auto;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+p {
+    color: whitesmoke;
+    width: 100%;
+    height: auto;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+a {
+    color: whitesmoke;
+    width: 100%;
+    height: auto;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
